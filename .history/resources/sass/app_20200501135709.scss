@@ -1,0 +1,28 @@
+html, body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+    display: flex;
+}
+nav a{
+    color: white;
+    font-size: 30px;
+    background-color: rgb(253, 49, 49);
+    padding: 10px;
+    margin: 0;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    border: solid 1px rgba(165, 165, 165, .6);
+    border-top: none;
+}
+.banner img{
+    width: 100%;
+    height: 50vh;
+}
